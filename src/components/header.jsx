@@ -14,10 +14,10 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#about"
+                  href="https://drive.google.com/drive/folders/1vLlGGvyuMxRwsRTGScYnNibbb68rIWxY"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Learn More
+                  New Photos
                 </a>{" "}
               </div>
             </div>
